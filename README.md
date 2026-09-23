@@ -1,6 +1,10 @@
 # farAway
 This project is a small React travel packing-list app called Far Away.
 
+## 🚀 Live Demo
+
+[View FarAway Live](https://hanemnaga.github.io/farAway/)
+
 Users can:
 
 Add items to a trip packing list
